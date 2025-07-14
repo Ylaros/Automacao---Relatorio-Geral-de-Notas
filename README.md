@@ -58,6 +58,21 @@ Para executar esta automação, é necessário:
 
 ---
 
+📷 Capturas de Tela
+|Exemplo 1 | [https://github.com/Ylaros/Automacao-Relatorio-Geral-de-Notas/blob/main/Imagens/Relat%C3%B3rio%20Geral%20de%20Notas%2001.png]
+|Exemplo 2 | [https://github.com/Ylaros/Automacao-Relatorio-Geral-de-Notas/blob/main/Imagens/Relat%C3%B3rio%20Geral%20de%20Notas%2002.png]
+|Exemplo 3 | [https://github.com/Ylaros/Automacao-Relatorio-Geral-de-Notas/blob/main/Imagens/Relat%C3%B3rio%20Geral%20de%20Notas%2003.png]
+|Exemplo 4 | [https://github.com/Ylaros/Automacao-Relatorio-Geral-de-Notas/blob/main/Imagens/Relat%C3%B3rio%20Geral%20de%20Notas%2004.png]
+|Exemplo 5 | [https://github.com/Ylaros/Automacao-Relatorio-Geral-de-Notas/blob/main/Imagens/Relat%C3%B3rio%20Geral%20de%20Notas%2005.png]
+
+📑 Automações Envolvidas
+🔹 Python + Selenium - [https://github.com/Ylaros/Automacao-Relatorio-Geral-de-Notas/tree/main/Python%20Exec]
+
+🔹 Códigos VBA - [https://github.com/Ylaros/Automacao-Relatorio-Geral-de-Notas/tree/main/VBA%20Codes]
+
+🔹 Códigos SQL Anywhere - [https://github.com/Ylaros/Automacao-Relatorio-Geral-de-Notas/tree/main/SQL%20Anywhere]
+
+
 ## ✍️ Autor
 
 **Aloyr Rezende**  
@@ -68,3 +83,6 @@ Para executar esta automação, é necessário:
 ## 💬 Licença
 
 Este projeto é de uso interno e educacional. Caso deseje adaptar ou reutilizar partes da automação, sinta-se à vontade para contribuir ou propor melhorias.
+
+
+
