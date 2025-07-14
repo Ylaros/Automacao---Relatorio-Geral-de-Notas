@@ -76,6 +76,7 @@ Para executar esta automação, é necessário:
 
 🔹 Códigos SQL Anywhere - [https://github.com/Ylaros/Automacao-Relatorio-Geral-de-Notas/tree/main/SQL%20Anywhere]
 
+🔹 Planilha com as Macros - [https://github.com/Ylaros/Automacao-Relatorio-Geral-de-Notas/tree/main/XLSM]
 
 ## ✍️ Autor
 
