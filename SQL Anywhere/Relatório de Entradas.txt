@@ -1,0 +1,17 @@
+SELECT bethadba.efentradas.codi_emp, 
+         bethadba.efentradas.codi_ent, 
+         bethadba.efentradas.nume_ent, 		 
+         bethadba.efentradas.segi_ent, 
+         bethadba.efentradas.ddoc_ent, 
+         bethadba.efentradas.codi_acu, 
+         bethadba.efentradas.codi_nat, 
+         bethadba.efentradas.vcon_ent, 
+         bethadba.efentradas.situacao_ent, 
+         bethadba.efentradas.codi_usu,
+         bethadba.efentradas.codi_esp        
+
+
+    FROM bethadba.efentradas
+    
+    WHERE 
+         bethadba.efentradas.ddoc_ent BETWEEN :d_ini AND :d_fim
