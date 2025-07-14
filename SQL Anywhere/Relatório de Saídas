@@ -1,0 +1,16 @@
+SELECT bethadba.efsaidas.codi_emp, 
+         bethadba.efsaidas.codi_sai, 
+         bethadba.efsaidas.nume_sai, 		 
+         bethadba.efsaidas.segi_sai, 
+         bethadba.efsaidas.ddoc_sai, 
+         bethadba.efsaidas.codi_acu, 
+         bethadba.efsaidas.codi_nat, 
+         bethadba.efsaidas.vcon_sai, 
+         bethadba.efsaidas.situacao_sai, 
+         bethadba.efsaidas.codi_usu,
+         bethadba.efsaidas.codi_esp
+
+
+    FROM bethadba.efsaidas	
+    
+    WHERE bethadba.efsaidas.ddoc_sai BETWEEN :d_ini AND :d_fim
