@@ -60,9 +60,13 @@ Para executar esta automação, é necessário:
 
 📷 Capturas de Tela
 |Exemplo 1 | [https://github.com/Ylaros/Automacao-Relatorio-Geral-de-Notas/blob/main/Imagens/Relat%C3%B3rio%20Geral%20de%20Notas%2001.png]
+
 |Exemplo 2 | [https://github.com/Ylaros/Automacao-Relatorio-Geral-de-Notas/blob/main/Imagens/Relat%C3%B3rio%20Geral%20de%20Notas%2002.png]
+
 |Exemplo 3 | [https://github.com/Ylaros/Automacao-Relatorio-Geral-de-Notas/blob/main/Imagens/Relat%C3%B3rio%20Geral%20de%20Notas%2003.png]
+
 |Exemplo 4 | [https://github.com/Ylaros/Automacao-Relatorio-Geral-de-Notas/blob/main/Imagens/Relat%C3%B3rio%20Geral%20de%20Notas%2004.png]
+
 |Exemplo 5 | [https://github.com/Ylaros/Automacao-Relatorio-Geral-de-Notas/blob/main/Imagens/Relat%C3%B3rio%20Geral%20de%20Notas%2005.png]
 
 📑 Automações Envolvidas
